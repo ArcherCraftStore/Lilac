@@ -17,6 +17,6 @@ class Lilac(cmd.Cmd):
   print("%.2f" % total)
 
 
-if __name__  = "__main__":
+if __name__  == "__main__":
   archercraftvmlilac = Lilac()
   archercraftvmlilac.cmdloop()
